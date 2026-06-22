@@ -1,5 +1,8 @@
 ## Project_5_Automated_Software_Testing_with_Playwright
 
+<br>
+
+### Basics:
 ### Getting Started
 
 Install dependencies and the Playwright browsers:
@@ -73,5 +76,7 @@ npx playwright show-report
 
 `page.pause()` halts execution and opens the Playwright Inspector, letting you step through actions, inspect locators, and resume manually. Invaluable for debugging.
 
+<br>
 
+### End to End:
 
